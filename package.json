@@ -1,0 +1,10 @@
+{
+  "name": "open-music-mq-consumer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Muhammad Rafiqi",
+  "license": "UNLICENSED",
+  "private": true
+}
