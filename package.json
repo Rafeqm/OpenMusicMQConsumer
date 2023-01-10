@@ -1,6 +1,6 @@
 {
   "name": "open-music-mq-consumer",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "",
   "main": "src/consumer.ts",
   "type": "module",
